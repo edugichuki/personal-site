@@ -1,0 +1,38 @@
+worker <a href="https://www.flaticon.com/free-icons/construction" title="construction icons">Construction icons created by Smashicons - Flaticon</a>
+engineer <a href="https://www.flaticon.com/free-icons/engineer" title="engineer icons">Engineer icons created by Freepik - Flaticon</a>
+programmer-Muhammad <a href="https://www.flaticon.com/free-icons/programmer" title="programmer icons">Programmer icons created by Muhammad Ali - Flaticon</a>
+code <a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by Freepik - Flaticon</a>
+hacker <a href="https://www.flaticon.com/free-icons/programmer" title="programmer icons">Programmer icons created by Eucalyp - Flaticon</a>
+software-enginner <a href="https://www.flaticon.com/free-icons/software-engineer" title="software engineer icons">Software engineer icons created by Freepik - Flaticon</a>
+coding <a href="https://www.flaticon.com/free-icons/web-development" title="web development icons">Web development icons created by nawicon - Flaticon</a>
+user<a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
+coding-Freepik <a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by Freepik - Flaticon</a>
+html-5 <a href="https://www.flaticon.com/free-icons/html-5" title="html-5 icons">Html-5 icons created by Freepik - Flaticon</a>
+coding(1) <a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a>
+coding(2) <a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Coding icons created by prettycons - Flaticon</a>
+coding(3) <a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a>
+coding(4) <a href="https://www.flaticon.com/free-icons/programmer" title="programmer icons">Programmer icons created by manshagraphics - Flaticon</a>
+coding(5) <a href="https://www.flaticon.com/free-icons/coding" title="coding icons">Coding icons created by Kiranshastry - Flaticon</a>
+
+
+
+
+<div class="icon-container">
+    <img src="icons/coding (1).png" alt="icon">
+    <span class="icon-attribution">Icon by <a href="https://www.flaticon.com/free-icons/html" rel="nofollow" target="_blank">Freepik</a></span>
+</div>
+
+.icon-container {
+    font-size: 12px;
+    color: gray;
+}
+
+
+
+
+/*          this is better                */
+<div>
+        <a href="https://www.flaticon.com/free-icons/coding" title="coding icons" rel="nofollow" target="_blank">
+          <img src="icons/coding(5).png" alt="icon designed by Kiranshastry">
+        </a>
+      </div>
