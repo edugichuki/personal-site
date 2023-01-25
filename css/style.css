@@ -6,6 +6,9 @@ body {
     color: #40514E;
     background-color: #E4F9F5;
 }
+.prof-image {
+    border-radius: 50%;
+}
 .auto {
     text-decoration: underline;
 }
